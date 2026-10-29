@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-E-Commerce-Analytics?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-E-Commerce-Analytics?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-E-Commerce-Analytics?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-E-Commerce-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -79,9 +79,9 @@ Open-source commerce intelligence gives engineering teams full data sovereignty,
 
 ### 🏆 Open-Source Projects Ranked by Stargazers
 
-The table below ranks open-source platforms and analytics engines by GitHub stars in **descending order**. Each star badge links directly to that repository's stargazers page.
+The table below ranks open-source platforms and analytics engines by GitHub_Stars in **descending order**. Each Stars_Badge links directly to that repository's stargazers page.
 
-| Repository | GitHub Stars Badge | License | Primary Focus & Tech Stack |
+| Repository | GitHub_Stars_Badge | License | Primary Focus & Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Apache Superset](https://github.com/apache/superset)** 🐘 | [![Superset Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Apache-2.0 | Enterprise-grade modern data exploration and visualization platform with 40+ visual chart types, SQL Lab IDE, semantic layer, and petabyte-scale data warehouse connectivity. |
 | **[Metabase](https://github.com/metabase/metabase)** 💡 | [![Metabase Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | AGPL-3.0 | Intuitive business intelligence tool with turn-key e-commerce dashboards (revenue, AOV, refund rate, channel split), visual query builder, and automatic email/Slack alerts. |
