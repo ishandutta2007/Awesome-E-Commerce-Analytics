@@ -48,6 +48,8 @@ The sector is **highly fragmented**, populated by enterprise software titans (Al
     - [🏆 Open-Source Projects Ranked by Stargazers](#-open-source-projects-ranked-by-stargazers)
     - [💡 Architectural Evaluation: Self-Hosted vs. Turnkey SaaS](#-architectural-evaluation-self-hosted-vs-turnkey-saas)
   - [🤝 How to Contribute](#-how-to-contribute)
+  - [💖 Support](#-support)
+  - [⭐ Star History](#-star-history)
   - [⚖️ Disclaimer \& Privacy Considerations](#️-disclaimer--privacy-considerations)
 
 ---
@@ -108,6 +110,23 @@ We welcome contributions from merchants, data engineers, and e-commerce founders
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-analytics-tool`.
 3. 📝 **Add or update entries**: Ensure factual accuracy, specific pricing tiers, and verifiable GitHub links.
 4. 📬 **Submit a Pull Request** with a summary of the additions.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting the **Awesome E-Commerce Analytics** project! 🙏
+
+If you found this curated list helpful, please consider:
+- ⭐ **Starring** the repository on GitHub.
+- 🍴 **Forking** and contributing your favorite analytics tools or insights.
+- 📢 **Sharing** with fellow founders, DTC marketers, and data engineers.
+- ☕ **Buying a coffee / sponsoring** the maintainer to support ongoing curation and open-source updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-E-Commerce-Analytics&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-E-Commerce-Analytics&type=date&legend=top-left)
 
 ---
 
